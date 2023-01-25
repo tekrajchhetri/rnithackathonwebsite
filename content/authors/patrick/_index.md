@@ -1,9 +1,13 @@
 ---
 # Display name
-title: Tek Raj Chhetri
+title: Patrick Aschenbrenner
+
+# Username (this should match the folder name)
+authors:
+  - Patrick Aschenbrenner
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Instructor
@@ -16,13 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Artificial Intelligence
-  - Data Privacy
-  - Edge Intelligence & Internet of Things (IoT)
-  - Knowledge Graphs
-  - Sustainability
-  - Distributed Systems
+# interests:
+#   - Quality Engineering
+#   - Simulations
+#   - AI and Software Engineering
+#   - Autonomous Systems
+#   - Search-based Testing
 
 # education:
 #   courses:
@@ -41,20 +44,17 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/TekRaj_14
+    link: https://twitter.com/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Teachers
----
- 
+--- 

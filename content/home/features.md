@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Why Participate?
+subtitle: ✨ 
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
-    name: Slides
+    name: "Putting classroom knowledge<br/> into practise"
     description:
-  - icon: video
+  - icon: users
     icon_pack: fas
-    name: Video
+    name: "Learn to collaborate"
     description:
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: "Develop problem solving<br/> skills"
     description:
 ---
