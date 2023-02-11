@@ -5,7 +5,10 @@
 
 ## Template
 - [Hugo Online Course Theme](https://github.com/wowchemy/starter-hugo-online-course) 
-
+## Running
+- Download the codes and install hugo.
+- To run locally use the `hugo serve` command from the root directory of the website.
+- To generate static html files use `hugo` command and it will generate static html files under public directory.
 ## License
 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/e) 
 
